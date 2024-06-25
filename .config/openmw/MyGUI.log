@@ -1,0 +1,116 @@
+19:20:12  |  Platform  |  Info  |  * Initialise: RenderManager  |  /usr/obj/ports/openmw-0.47.0/openmw-openmw-0.47.0/components/myguiplatform/myguirendermanager.cpp  |  386
+19:20:12  |  Platform  |  Info  |  RenderManager successfully initialized  |  /usr/obj/ports/openmw-0.47.0/openmw-openmw-0.47.0/components/myguiplatform/myguirendermanager.cpp  |  410
+19:20:12  |  Core  |  Info  |  * Initialise: Gui  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_Gui.cpp  |  61
+19:20:12  |  Core  |  Info  |  * MyGUI version 3.4.1  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_Gui.cpp  |  66
+19:20:12  |  Core  |  Info  |  * Initialise: ResourceManager  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  32
+19:20:12  |  Core  |  Info  |  ResourceManager successfully initialized  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  40
+19:20:12  |  Core  |  Info  |  * Initialise: LayerManager  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  33
+19:20:12  |  Core  |  Info  |  LayerManager successfully initialized  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  41
+19:20:12  |  Core  |  Info  |  * Initialise: WidgetManager  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_WidgetManager.cpp  |  53
+19:20:12  |  Core  |  Info  |  WidgetManager successfully initialized  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_WidgetManager.cpp  |  84
+19:20:12  |  Core  |  Info  |  * Initialise: InputManager  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_InputManager.cpp  |  46
+19:20:12  |  Core  |  Info  |  InputManager successfully initialized  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_InputManager.cpp  |  66
+19:20:12  |  Core  |  Info  |  * Initialise: SubWidgetManager  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_SubWidgetManager.cpp  |  36
+19:20:12  |  Core  |  Info  |  SubWidgetManager successfully initialized  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_SubWidgetManager.cpp  |  56
+19:20:12  |  Core  |  Info  |  * Initialise: SkinManager  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  36
+19:20:12  |  Core  |  Info  |  SkinManager successfully initialized  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  46
+19:20:12  |  Core  |  Info  |  * Initialise: FontManager  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_FontManager.cpp  |  32
+19:20:12  |  Core  |  Info  |  FontManager successfully initialized  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_FontManager.cpp  |  42
+19:20:12  |  Core  |  Info  |  * Initialise: ControllerManager  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ControllerManager.cpp  |  33
+19:20:12  |  Core  |  Info  |  ControllerManager successfully initialized  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ControllerManager.cpp  |  42
+19:20:12  |  Core  |  Info  |  * Initialise: PointerManager  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_PointerManager.cpp  |  43
+19:20:12  |  Core  |  Info  |  PointerManager successfully initialized  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_PointerManager.cpp  |  62
+19:20:12  |  Core  |  Info  |  * Initialise: ClipboardManager  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ClipboardManager.cpp  |  32
+19:20:12  |  Core  |  Info  |  ClipboardManager successfully initialized  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ClipboardManager.cpp  |  39
+19:20:12  |  Core  |  Info  |  * Initialise: LayoutManager  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_LayoutManager.cpp  |  28
+19:20:12  |  Core  |  Info  |  LayoutManager successfully initialized  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_LayoutManager.cpp  |  35
+19:20:12  |  Core  |  Info  |  * Initialise: DynLibManager  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_DynLibManager.cpp  |  26
+19:20:12  |  Core  |  Info  |  DynLibManager successfully initialized  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_DynLibManager.cpp  |  30
+19:20:12  |  Core  |  Info  |  * Initialise: PluginManager  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_PluginManager.cpp  |  29
+19:20:12  |  Core  |  Info  |  PluginManager successfully initialized  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_PluginManager.cpp  |  33
+19:20:12  |  Core  |  Info  |  * Initialise: LanguageManager  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_LanguageManager.cpp  |  30
+19:20:12  |  Core  |  Info  |  LanguageManager successfully initialized  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_LanguageManager.cpp  |  34
+19:20:12  |  Core  |  Info  |  * Initialise: FactoryManager  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_FactoryManager.cpp  |  25
+19:20:12  |  Core  |  Info  |  FactoryManager successfully initialized  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_FactoryManager.cpp  |  27
+19:20:12  |  Core  |  Info  |  * Initialise: ToolTipManager  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ToolTipManager.cpp  |  33
+19:20:12  |  Core  |  Info  |  ToolTipManager successfully initialized  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ToolTipManager.cpp  |  45
+19:20:12  |  Core  |  Info  |  Gui successfully initialized  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_Gui.cpp  |  111
+19:20:13  |  Core  |  Info  |  Load ini file 'skins.xml'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  114
+19:20:13  |  Core  |  Info  |  Load ini file 'core.skin'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  114
+19:20:13  |  Core  |  Info  |  Load ini file 'openmw_resources.xml'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  114
+19:20:13  |  Core  |  Info  |  Load ini file 'openmw_font.xml'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  114
+19:20:13  |  Core  |  Info  |  ResourceTrueTypeFont: Font 'MonoFont' using texture size 512 x 256.  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ResourceTrueTypeFont.cpp  |  778
+19:20:13  |  Core  |  Info  |  ResourceTrueTypeFont: Font 'MonoFont' using real height 26 pixels.  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ResourceTrueTypeFont.cpp  |  779
+19:20:13  |  Core  |  Info  |  ResourceTrueTypeFont: Font 'Journalbook MonoFont' using texture size 512 x 1024.  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ResourceTrueTypeFont.cpp  |  778
+19:20:13  |  Core  |  Info  |  ResourceTrueTypeFont: Font 'Journalbook MonoFont' using real height 49 pixels.  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ResourceTrueTypeFont.cpp  |  779
+19:20:13  |  Core  |  Info  |  Load ini file 'openmw_text.skin.xml'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  114
+19:20:13  |  Core  |  Info  |  Load ini file 'openmw_windows.skin.xml'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  114
+19:20:13  |  Core  |  Info  |  Load ini file 'openmw_button.skin.xml'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  114
+19:20:13  |  Core  |  Info  |  Load ini file 'openmw_list.skin.xml'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  114
+19:20:13  |  Core  |  Info  |  Load ini file 'openmw_edit.skin.xml'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  114
+19:20:13  |  Core  |  Info  |  Load ini file 'openmw_box.skin.xml'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  114
+19:20:13  |  Core  |  Info  |  Load ini file 'openmw_progress.skin.xml'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  114
+19:20:13  |  Core  |  Info  |  Load ini file 'openmw_hud_energybar.skin.xml'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  114
+19:20:13  |  Core  |  Info  |  Load ini file 'openmw_hud_box.skin.xml'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  114
+19:20:13  |  Core  |  Info  |  Load ini file 'openmw_mainmenu.skin.xml'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  114
+19:20:13  |  Core  |  Info  |  Load ini file 'openmw_console.skin.xml'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  114
+19:20:13  |  Core  |  Info  |  Load ini file 'openmw_journal.skin.xml'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  114
+19:20:13  |  Core  |  Info  |  Load ini file 'openmw_map_window.skin.xml'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  114
+19:20:13  |  Core  |  Info  |  Load ini file 'openmw_dialogue_window.skin.xml'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  114
+19:20:13  |  Core  |  Info  |  Load ini file 'openmw_scroll.skin.xml'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  114
+19:20:13  |  Core  |  Info  |  Load ini file 'openmw_debug_window.skin.xml'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  114
+19:20:13  |  Core  |  Info  |  Load ini file 'openmw_layers.xml'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  114
+19:20:13  |  Core  |  Info  |  Load ini file 'openmw_pointer.xml'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  114
+19:20:13  |  Core  |  Info  |  Load ini file 'openmw_settings.xml'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  114
+19:20:19  |  Core  |  Info  |  * Shutdown: Gui  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_Gui.cpp  |  125
+19:20:19  |  Core  |  Info  |  * Shutdown: PointerManager  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_PointerManager.cpp  |  69
+19:20:19  |  Core  |  Info  |  PointerManager successfully shutdown  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_PointerManager.cpp  |  86
+19:20:19  |  Core  |  Info  |  * Shutdown: InputManager  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_InputManager.cpp  |  73
+19:20:19  |  Core  |  Info  |  InputManager successfully shutdown  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_InputManager.cpp  |  78
+19:20:19  |  Core  |  Info  |  * Shutdown: SkinManager  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  53
+19:20:19  |  Core  |  Info  |  SkinManager successfully shutdown  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  60
+19:20:19  |  Core  |  Info  |  * Shutdown: SubWidgetManager  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_SubWidgetManager.cpp  |  63
+19:20:19  |  Core  |  Info  |  SubWidgetManager successfully shutdown  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_SubWidgetManager.cpp  |  83
+19:20:19  |  Core  |  Info  |  * Shutdown: LayerManager  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  48
+19:20:19  |  Core  |  Info  |  destroy layer 'Scene'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  208
+19:20:19  |  Core  |  Info  |  destroy layer 'Overlay'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  208
+19:20:19  |  Core  |  Info  |  destroy layer 'AdditiveOverlay'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  208
+19:20:19  |  Core  |  Info  |  destroy layer 'HUD'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  208
+19:20:19  |  Core  |  Info  |  destroy layer 'Menu'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  208
+19:20:19  |  Core  |  Info  |  destroy layer 'MainMenu'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  208
+19:20:19  |  Core  |  Info  |  destroy layer 'JournalBooks'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  208
+19:20:19  |  Core  |  Info  |  destroy layer 'Windows'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  208
+19:20:19  |  Core  |  Info  |  destroy layer 'Debug'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  208
+19:20:19  |  Core  |  Info  |  destroy layer 'Popup'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  208
+19:20:19  |  Core  |  Info  |  destroy layer 'Notification'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  208
+19:20:19  |  Core  |  Info  |  destroy layer 'DragAndDrop'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  208
+19:20:19  |  Core  |  Info  |  destroy layer 'LoadingScreen'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  208
+19:20:19  |  Core  |  Info  |  destroy layer 'MessageBox'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  208
+19:20:19  |  Core  |  Info  |  destroy layer 'InputBlocker'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  208
+19:20:19  |  Core  |  Info  |  destroy layer 'Pointer'  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  208
+19:20:19  |  Core  |  Info  |  LayerManager successfully shutdown  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  59
+19:20:19  |  Core  |  Info  |  * Shutdown: FontManager  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_FontManager.cpp  |  49
+19:20:19  |  Core  |  Info  |  FontManager successfully shutdown  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_FontManager.cpp  |  57
+19:20:19  |  Core  |  Info  |  * Shutdown: ControllerManager  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ControllerManager.cpp  |  49
+19:20:19  |  Core  |  Info  |  ControllerManager successfully shutdown  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ControllerManager.cpp  |  59
+19:20:19  |  Core  |  Info  |  * Shutdown: ClipboardManager  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ClipboardManager.cpp  |  46
+19:20:19  |  Core  |  Info  |  ClipboardManager successfully shutdown  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ClipboardManager.cpp  |  54
+19:20:19  |  Core  |  Info  |  * Shutdown: LayoutManager  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_LayoutManager.cpp  |  42
+19:20:19  |  Core  |  Info  |  LayoutManager successfully shutdown  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_LayoutManager.cpp  |  49
+19:20:19  |  Core  |  Info  |  * Shutdown: PluginManager  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_PluginManager.cpp  |  40
+19:20:19  |  Core  |  Info  |  PluginManager successfully shutdown  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_PluginManager.cpp  |  45
+19:20:19  |  Core  |  Info  |  * Shutdown: DynLibManager  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_DynLibManager.cpp  |  37
+19:20:19  |  Core  |  Info  |  DynLibManager successfully shutdown  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_DynLibManager.cpp  |  44
+19:20:19  |  Core  |  Info  |  * Shutdown: LanguageManager  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_LanguageManager.cpp  |  41
+19:20:19  |  Core  |  Info  |  LanguageManager successfully shutdown  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_LanguageManager.cpp  |  45
+19:20:19  |  Core  |  Info  |  * Shutdown: ResourceManager  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  47
+19:20:19  |  Core  |  Info  |  ResourceManager successfully shutdown  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  57
+19:20:19  |  Core  |  Info  |  * Shutdown: FactoryManager  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_FactoryManager.cpp  |  34
+19:20:19  |  Core  |  Info  |  FactoryManager successfully shutdown  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_FactoryManager.cpp  |  36
+19:20:19  |  Core  |  Info  |  * Shutdown: ToolTipManager  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ToolTipManager.cpp  |  52
+19:20:19  |  Core  |  Info  |  ToolTipManager successfully shutdown  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_ToolTipManager.cpp  |  57
+19:20:19  |  Core  |  Info  |  * Shutdown: WidgetManager  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_WidgetManager.cpp  |  91
+19:20:19  |  Core  |  Info  |  WidgetManager successfully shutdown  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_WidgetManager.cpp  |  100
+19:20:19  |  Core  |  Info  |  Gui successfully shutdown  |  /usr/obj/ports/mygui-3.4.1/mygui-MyGUI3.4.1/MyGUIEngine/src/MyGUI_Gui.cpp  |  171
+19:20:19  |  Platform  |  Info  |  * Shutdown: RenderManager  |  /usr/obj/ports/openmw-0.47.0/openmw-openmw-0.47.0/components/myguiplatform/myguirendermanager.cpp  |  368
+19:20:19  |  Platform  |  Info  |  RenderManager successfully shutdown  |  /usr/obj/ports/openmw-0.47.0/openmw-openmw-0.47.0/components/myguiplatform/myguirendermanager.cpp  |  378

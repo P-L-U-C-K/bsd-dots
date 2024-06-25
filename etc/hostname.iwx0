@@ -1,0 +1,4 @@
+join "STR8 2 DA CREM" wpakey 'b1ngb4ngb0ng$$$'
+inet autoconf
+inet6 autoconf
+up
